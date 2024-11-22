@@ -39,7 +39,7 @@ TUGAS PERTEMUAN 1
 <img width="431" alt="Capture8" src="https://github.com/user-attachments/assets/e04bccfe-409f-43e7-82ac-0d2b73b895c8">
 
 • Explanatory & Response Variables | Features & Target <br>
-<img width="416" alt="Capture9" src="https://github.com/user-attachments/assets/c7d699a1-bc91-41a1-9a02-6b2e7ffcc818">
+<img width="416" alt="Capture9" src="https://github.com/user-attachments/assets/c7d699a1-bc91-41a1-9a02-6b2e7ffcc818"> <br>
 <img width="418" alt="Capture10" src="https://github.com/user-attachments/assets/3d11b111-6068-4a5e-8aa5-fe8fc0f58d20">
 
 
